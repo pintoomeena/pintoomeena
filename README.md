@@ -7,19 +7,19 @@
 <br/>
 
 <a href="https://linkedin.com/in/pintoo-meena">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:pintoomeena07@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/pintoomeena">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-pintoomeena-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/pintoomeena">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-600%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://codolio.com/profile/pintoomeena">
@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pintoomeena&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=pintoomeena&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -154,6 +154,11 @@
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🤖 AI SQL Query Generator
 
 **Python • MySQL • Gemini • Streamlit • SQLGlot**
@@ -164,7 +169,9 @@
 * Added **SQL validation and error-repair workflows** using SQLGlot and Gemini.
 * Generates **AI-based result explanations and visualizations**.
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 📄 RAG-based PDF Question Answering System
 
@@ -176,7 +183,13 @@
 * Built a **FastAPI REST API** supporting multi-PDF uploads.
 * Integrated a local **Hugging Face language model** to generate context-aware answers from retrieved document content.
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 📋 AI-powered Resume Summarizer
 
@@ -188,19 +201,46 @@
 * Enhanced the system to generate **interview-style questions** from resumes.
 * Helps create targeted and context-aware candidate assessments.
 
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Problem Solving
+
+```text
+600+
+LeetCode Problems
+
+DSA
+SQL
+Problem Solving
+Core CS
+```
+
+Regularly practicing **Data Structures & Algorithms** and strengthening fundamentals in:
+
+`OOPs` `DBMS` `Operating Systems`
+
+</td>
+
+</tr>
+</table>
+
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:6366F1&height=3&section=header" width="100%" />
-
-<br/>
 
 ## 🏆 Achievements
 
-* 🧠 **600+ DSA problems solved on LeetCode**
-* 🏅 **6th Position — Internal Round, Smart India Hackathon 2024**
-* 🚑 Developed an **AI-driven solution for automated hospital bed allocation**
+<div align="center">
 
-<br/>
+|  🏆 | Achievement                                                               |
+| :-: | :------------------------------------------------------------------------ |
+|  🧠 | **600+ DSA problems solved on LeetCode**                                  |
+|  🏅 | **6th Position — Internal Round, Smart India Hackathon 2024**             |
+|  🤖 | Developed an **AI-driven solution for automated hospital bed allocation** |
+
+</div>
+
+---
 
 ## 📜 Certifications
 
@@ -208,16 +248,21 @@
 * **ServiceNow Certified Application Developer (CAD)**
 * **Machine Learning Specialization — Classification and Regression, Coursera**
 
-<br/>
+---
 
 ## 🎓 Education
 
-**Indian Institute of Information Technology, Bhagalpur**
+<div align="center">
 
-B.Tech — Electronics and Communication Engineering
-**2023 – 2027 | CGPA: 7.97**
+### Indian Institute of Information Technology, Bhagalpur
 
-<br/>
+**B.Tech — Electronics and Communication Engineering**
+
+`2023 – 2027`   •   **CGPA: 7.97**
+
+</div>
+
+---
 
 ## 👥 Position of Responsibility
 
@@ -229,24 +274,36 @@ B.Tech — Electronics and Communication Engineering
 * Coordinating with faculty and students.
 * Ensuring smooth academic communication.
 
-<br/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=pintoomeena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pintoomeena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pintoomeena&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pintoomeena&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-<br/>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Building practical AI systems • Learning continuously • Solving problems**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pintoomeena&theme=tokyo-night&hide_border=true&area=true&custom_title=Pintoo's%20Contribution%20Activity" width="95%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=150&section=footer" width="100%" />
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EC4899&height=2&section=footer" width="80%" />
+
+<br/><br/>
+
+### `Think • Build • Learn • Repeat`
+
+**Thanks for visiting! ⭐**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=120&section=footer" width="100%" />
+
+</div>

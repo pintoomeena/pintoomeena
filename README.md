@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**pintoomeena/pintoomeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Hi%20👋%2C%20I'm%20Pintoo%20Meena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20NLP%20%E2%80%A2%20Data%20Science&descAlignY=58&descSize=18" width="100%" />
 
@@ -263,6 +250,3 @@ B.Tech — Electronics and Communication Engineering
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6366F1&height=150&section=footer" width="100%" />
-
-- ⚡ Fun fact: ...
--->

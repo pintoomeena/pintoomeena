@@ -1,227 +1,249 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:6366F1,50:EC4899,75:7C3AED,100:000000&height=180&section=header&text=⚡%20Pintoo%20Meena&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,20:312E81,45:7C3AED,70:DB2777,100:09090B&height=220&section=header&text=Pintoo%20Meena&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20NLP%20%E2%80%A2%20DATA%20SCIENCE&descAlignY=60&descSize=19" width="100%"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%2F+ML+%7C+NLP+%7C+DATA+SCIENCE;PYTHON+%7C+SQL+%7C+MACHINE+LEARNING;LLMs+%7C+RAG+%7C+DEEP+LEARNING;BUILDING+WITH+DATA+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&width=850&lines=PYTHON+%7C+SQL+%7C+MACHINE+LEARNING;NLP+%7C+RAG+%7C+DEEP+LEARNING;DATA+SCIENCE+%7C+AI+ENGINEERING" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=power&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%2FML-00f7ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-ff00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_AI%2FML-CORE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/◈_NLP-FOCUS-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/◉_DATA-DRIVEN-0891B2?style=for-the-badge"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║                 ██████╗ ██╗███╗   ██╗████████╗                  ║
-║                 ██╔══██╗██║████╗  ██║╚══██╔══╝                  ║
-║                 ██████╔╝██║██╔██╗ ██║   ██║                     ║
-║                 ██╔═══╝ ██║██║╚██╗██║   ██║                     ║
-║                 ██║     ██║██║ ╚████║   ██║                     ║
-║                 ╚═╝     ╚═╝╚═╝  ╚═══╝   ╚═╝                     ║
-║                                                                  ║
-║                    TECHNICAL ARSENAL                             ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  T E C H   A R S E N A L                   ║
+║                                                              ║
+║          AI  •  ML  •  NLP  •  DATA  •  CORE CS            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<br/>
-
-## ⚡ `01 // LANGUAGES`
+---
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" /></a>
+# `01` — ⚡ LANGUAGES
 
-<br/><br/>
+<br>
 
-<img src="https://img.shields.io/badge/PYTHON-CORE-00F7FF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-DATA-6366F1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-DSA-EC4899?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PYTHON-PRIMARY-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-DATA-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-CORE-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </div>
 
----
+<br>
 
-## 🧬 `02 // DATA SCIENCE`
+---
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+# `02` — 📊 DATA SCIENCE
 
-<br/><br/>
+<br>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/EDA-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics%20%26%20Probability-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATISTICS%20%26%20PROBABILITY-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FEATURE%20ENGINEERING-7C3AED?style=for-the-badge"/>
 
 </div>
 
----
+<br>
 
-## 🤖 `03 // AI • ML • DEEP LEARNING`
+---
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /></a>
+# `03` — 🤖 AI / ML
 
-<br/><br/>
+<br>
 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/NLP-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HUGGING%20FACE%20TRANSFORMERS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NLP-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-DB2777?style=for-the-badge"/>
 
 </div>
 
----
+<br>
 
-## 🧠 `04 // AI ENGINEERING`
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+# `04` — 🧠 AI ENGINEERING
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### API
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/REST%20APIs-6366F1?style=for-the-badge"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### DATA
+
+<img src="https://img.shields.io/badge/ETL%20CONCEPTS-EC4899?style=for-the-badge"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-EC4899?style=for-the-badge"/>
 
-<br/><br/>
+</td>
 
-```text
-        ┌──────────────┐
-        │     DATA     │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   PIPELINE   │
-        └──────┬───────┘
-               │
-        ┌──────▼───────┐
-        │   AI / ML    │
-        └──────┬───────┘
-               │
-        ┌──────▼───────┐
-        │   INFERENCE  │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │     API      │
-        └──────────────┘
-```
+<td align="center" width="25%">
 
-</div>
+### RETRIEVAL
 
----
+<br>
 
-## 🗄️ `05 // DATABASE`
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
 
-<div align="center">
+<br><br>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
+`Vector Databases`
 
-<br/><br/>
+</td>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-QUERYING-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-ChromaDB-EC4899?style=for-the-badge"/>
+<td align="center" width="25%">
+
+### PIPELINES
+
+<br>
+
+`Data`
+
+↓
+
+`Model`
+
+↓
+
+`API`
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br>
 
-## 🛠️ `06 // TOOLS & PLATFORMS`
+---
 
 <div align="center">
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,aws,gcp&theme=dark" />
-</a>
+# `05` — 🛠️ TOOLS & PLATFORMS
 
-<br/><br/>
+<br>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter&theme=dark" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUPYTER%20NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AWS-BASICS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-BASICS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 </div>
 
----
+<br>
 
-## 💻 `07 // CORE CS`
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+# `06` — 💻 CORE CS
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OOPs-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-DB2777?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-7C3AED?style=for-the-badge"/>
 
-<br/><br/>
-
-```text
-       ┌─────────────┐
-       │     DSA     │
-       └──────┬──────┘
-              │
-     ┌────────┼────────┐
-     ▼        ▼        ▼
-    OOP      DBMS      OS
-     │        │        │
-     └────────┼────────┘
-              ▼
-       CORE CS FOUNDATION
-```
-
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:6366F1,100:EC4899&height=4&section=footer" width="90%"/>
-
-<br/><br/>
-
 ```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│       LEARN  →  BUILD  →  BREAK  →  IMPROVE         │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│   PYTHON   SQL   ML   NLP   RAG   DL   DATA   APIs       │
+│                                                           │
+│                    ⚡ BUILD WITH DATA ⚡                   │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=900&color=EC4899&center=true&vCenter=true&width=600&lines=Always+Learning.;Always+Building.;Always+Improving." />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=800&color=EC4899&center=true&vCenter=true&width=650&lines=LEARN+%E2%80%A2+BUILD+%E2%80%A2+EXPERIMENT+%E2%80%A2+IMPROVE" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:7C3AED,50:DB2777,75:0891B2,100:09090B&height=130&section=footer" width="100%"/>
 
 </div>
